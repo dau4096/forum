@@ -1,0 +1,4 @@
+prgm
+*.o
+*.log
+*.debug.png
