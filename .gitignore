@@ -1,0 +1,7 @@
+prgm
+*.o
+*.log
+*.debug.png
+*__pycache__
+forums/*
+
